@@ -15,6 +15,8 @@ float rule_of_three(float alpha, float beta, float epsilon)
 int main()
 {
     float x = get_porcentage(30,59.4);
-    cout << x << endl;
+    int d;
+    cin >> d;
+    cout << d << endl;
     return 0;
 }
